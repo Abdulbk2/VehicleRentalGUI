@@ -91,9 +91,12 @@ Contributions are welcome! If you'd like to improve this project:
 
 This project is open source and available under the [MIT License](LICENSE) (or specify your preferred license).
 
-## Author
+## Author & Contributor
 
 **Abdulbk2** - Initial project creation
+**Usamnalyt** - Contributor 
+**DanMadina** - Contributor
+**Dosheero**  - Contributor
 
 ## Contact
 
